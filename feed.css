@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: lightgrey;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    
+}
+.wrapper{
+    max-width: 930px;
+    height: 100vh;
+    margin: auto;
+}
+
+.all-feed{
+    width: 614px;
+    margin: auto;
+    
+}
+
+.box{
+    margin-bottom: 30px;
+    background-color: white;
+}
+.post-header{
+    background-color: white;
+    float: left;
+    padding: 5px 0;
+}
+.post-date{
+    float: right;
+    padding: 5px 0;
+}
+
+.post-img{
+    width: 100%;
+}
+
+.post-img img{
+    width: 100%;
+}
+
+.post-info{
+    background-color: white;
+    padding-bottom: 50px;
+}
+
+.post-info p{
+    padding-top: 3px;
+    padding-left:3px;
+}
